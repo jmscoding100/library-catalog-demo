@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/library-react-live/static/js/main.cc85e45e.js",
-    "index.html": "/library-react-live/index.html",
-    "main.cc85e45e.js.map": "/library-react-live/static/js/main.cc85e45e.js.map"
+    "main.js": "/library-catalog-demo/static/js/main.cc85e45e.js",
+    "index.html": "/library-catalog-demo/index.html",
+    "main.cc85e45e.js.map": "/library-catalog-demo/static/js/main.cc85e45e.js.map"
   },
   "entrypoints": [
     "static/js/main.cc85e45e.js"
