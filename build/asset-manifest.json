@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/library-catalog-demo/static/js/main.cc85e45e.js",
+    "main.js": "/library-catalog-demo/static/js/main.fe3a49f2.js",
     "index.html": "/library-catalog-demo/index.html",
-    "main.cc85e45e.js.map": "/library-catalog-demo/static/js/main.cc85e45e.js.map"
+    "main.fe3a49f2.js.map": "/library-catalog-demo/static/js/main.fe3a49f2.js.map"
   },
   "entrypoints": [
-    "static/js/main.cc85e45e.js"
+    "static/js/main.fe3a49f2.js"
   ]
 }
